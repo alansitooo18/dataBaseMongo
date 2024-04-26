@@ -28,3 +28,4 @@
 /Users/alancruz/VS Code/P1/dataBase/obj/Debug/net8.0/dataBase.pdb
 /Users/alancruz/VS Code/P1/dataBase/obj/Debug/net8.0/dataBase.genruntimeconfig.cache
 /Users/alancruz/VS Code/P1/dataBase/obj/Debug/net8.0/ref/dataBase.dll
+/Users/alancruz/VS Code/P1/dataBase/obj/Debug/net8.0/dataBase.sourcelink.json
