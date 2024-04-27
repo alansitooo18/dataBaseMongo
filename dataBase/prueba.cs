@@ -43,7 +43,7 @@ namespace dataBase
             var salesCollection = ventasDB.GetCollection<Ventas>("sales");
 
             //Filtro para encontrar un objeto en la base de datos que su price sea menor a 10
-            var filter = Builders<Ventas>.Filter.Lt("price", 10);
+            var filter = Builders<Ventas>.Filter.Lt("price", 9);
             //Lista de los objetos encontrados en el find 
             List<Ventas> salesList = salesCollection.Find(d =>true).ToList(); 
             //Imprimir Lista
